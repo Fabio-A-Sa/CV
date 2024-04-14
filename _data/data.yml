@@ -12,7 +12,7 @@ sidebar:
     email: up202007658@up.pt
     linkedin: fabio-a-sa
     github: Fabio-A-Sa
-    pdf: ../assets/cv-sep-2023.pdf
+    pdf: ../assets/cv-april-2024.pdf
 
     languages:
       title: Languages
@@ -46,7 +46,14 @@ experiences:
         time: September 2023 - Now
         company: Sky, Lisbon & Aveiro
         details: |
-          Test cases automation for <a href="https://peacocktv.com" >Peacock UK</a>, <a href="https://skyshowtime.com" >SkyShowtime</a> and <a href="https://showmax.com" >Showmax</a> Web products. Web Release Team member.
+          Automation for <a href="https://peacocktv.com" >Peacock UK</a>, <a href="https://skyshowtime.com" >SkyShowtime</a> and <a href="https://showmax.com" >Showmax</a> Web products. Web Release Team member.
+
+      - role: Semana Profissão Engenharia 2024
+        time: March 2024
+        company: Faculty of Engineering of University of Porto (FEUP), Porto
+        details: |
+          As part of the "Semana Profissão Engenharia 2024", I was invited to present the areas of Artificial Intelligence and Computer Graphics over two days of activities by the Faculty and in numerous lectures lasting 30 to 45 minutes.
+            - <a href="https://fabio-a-sa.github.io/SPE-2024/presentation/">Presentation</a>
 
       - role: Teaching Assistant - LBAW
         time: September 2023 - January 2024
@@ -68,7 +75,7 @@ experiences:
           I helped 2nd year students during classes to develop drivers for computer peripherals following good low-level programming practices in the C language in the <a href="https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501680">Laboratory Computing Course</a> (LCOM). Outside of classes I created the unofficial LCOM documentation, with explanations, exercises and a Template example for the final project that became life-saving for the students during the semester. It was a pleasure.
             - <a href="https://github.com/Fabio-A-Sa/Y2S2-LabComputadores" >LCOM Unofficial Documentation</a>
 
-      - role: Semana Profissão Engenheiro 2022
+      - role: Semana Profissão Engenharia 2022
         time: February 2022
         company: Faculty of Engineering of University of Porto (FEUP), Porto
         details: |
