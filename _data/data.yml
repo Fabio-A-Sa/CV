@@ -5,14 +5,14 @@ sidebar:
 
     # Profile information
     name: Fábio Sá
-    tagline: 1st year student of the Master in Informatics and Computing Engineering @ FEUP 
+    tagline: 2nd year student of the Master in Informatics and Computing Engineering @ FEUP 
     avatar: profile.png
 
     # Sidebar links
     email: up202007658@up.pt
     linkedin: fabio-a-sa
     github: Fabio-A-Sa
-    pdf: ./assets/cv-april-2024.pdf
+    pdf: ./assets/cv-september-2024.pdf
 
     languages:
       title: Languages
