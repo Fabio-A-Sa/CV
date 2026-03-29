@@ -5,14 +5,14 @@ sidebar:
 
     # Profile information
     name: Fábio Sá
-    tagline: 2nd year student of the Master in Informatics and Computing Engineering @ FEUP 
+    tagline: QA Automation Engineer | Master in Informatics and Computing Engineering
     avatar: profile.png
 
     # Sidebar links
-    email: up202007658@up.pt
+    email: fabio1007sa@gmail.com
     linkedin: fabio-a-sa
     github: Fabio-A-Sa
-    pdf: ./assets/cv-september-2024.pdf
+    pdf: ./assets/cv-march-2026.pdf
 
     languages:
       title: Languages
@@ -29,7 +29,6 @@ education:
       - degree: MSc in Informatics and Computing Engineering
         university: Faculty of Engineering of University of Porto, Portugal
         time: September 2023 - July 2025
-        details:
       - degree: BSc in Informatics and Computing Engineering
         university: Faculty of Engineering of University of Porto, Portugal
         time: September 2020 - July 2023
@@ -46,7 +45,7 @@ experiences:
         time: September 2023 - Now
         company: Sky, Lisbon & Aveiro
         details: |
-          Automation for <a href="https://peacocktv.com" >Peacock UK</a>, <a href="https://skyshowtime.com" >SkyShowtime</a> and <a href="https://showmax.com" >Showmax</a> Web products. Web Release Team member.
+          Perform end-to-end, analytics, mock, and resilience automated testing for high-traffic streaming applications, including Peacock, SkyShowtime, and Now, supporting millions of simultaneous users. I design and execute automated test scenarios to validate performance, playback, and platform stability across Web platforms, while conducting build analysis, release candidate testing, KPI monitoring, and defect reporting to ensure smooth, reliable releases. I maintain and improve CI/CD pipelines to integrate automated testing efficiently and support global releases during high-demand events, such as NFL games, the Super Bowl, and Olympic Games. My work is reinforced by a strong analytical and problem-solving foundation, strengthened through my Master’s Thesis, which involved researching and testing logical paradigms to evaluate student performance, including designing experiments, analyzing results, and validating outcomes.
 
       - role: Semana Profissão Engenharia 2024
         time: March 2024
